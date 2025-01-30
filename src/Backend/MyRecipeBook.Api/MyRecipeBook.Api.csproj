@@ -13,10 +13,6 @@
 
 <<<<<<< Updated upstream
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\Shared\MyRecipeBook.Communication\MyRecipeBook.Communication.csproj" />
     <ProjectReference Include="..\..\Shared\MyRecipeBook.Exceptions\MyRecipeBook.Exceptions.csproj" />
     <ProjectReference Include="..\MyRecipeBook.Application\MyRecipeBook.Application.csproj" />
